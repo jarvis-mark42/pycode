@@ -1,6 +1,8 @@
 import sys
 import requests
+#create an access token and enter here
 access_token=""
+#from google find out the timestamp to the start of your birthday and enter here
 timestamp=""
 li=[]
 def url_create():
